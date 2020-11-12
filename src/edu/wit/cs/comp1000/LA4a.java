@@ -8,7 +8,9 @@ public class LA4a {
 	static final String E_POSITIVE = "Inputs must both be positive.";
 
 	public static void main(String[] args) {
+		
 		// TODO: write your code here
+		
 	}
 	
 	/**
@@ -19,7 +21,9 @@ public class LA4a {
 	 * @return gcd of integers 1 and 2
 	 */
 	public static int gcd(int num1, int num2) {
+		
 		return 0; // TODO: replace with your code
+	
 	}
 
 }
